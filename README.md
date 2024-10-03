@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i'm j3n1x or call me Stas and this repository was created for fun (for now)
 
 <!--
 **j3n1xnoname/j3n1xnoname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
