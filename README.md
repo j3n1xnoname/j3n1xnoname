@@ -1,4 +1,4 @@
-## I hate C++
+
 
 <!--
 **j3n1xnoname/j3n1xnoname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
